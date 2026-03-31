@@ -1,46 +1,53 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/francefaraz/francefaraz/refs/heads/main/banner.png" alt="Shaik Muneer banner" />
+</p>
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐓𝐡𝐞𝐫𝐞! 👋 I'm Shaik Muneer</h1>
+<h1 align="center">Hi 👋, I'm Shaik Muneer (Myself Android)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Mobile+Game+Developer+%F0%9F%8E%AE;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Flutter+%7C+Python+%7C+Node.js+%7C+AWS;Building+Cool+Apps+%26+Games+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Mobile+App+%26+Game+Builder;Secure+API+%26+Fintech+Integration+Engineer;Building+practical+products+for+real-world+problems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌍 Based in **Hyderabad, Telangana, India**
-- 🎮 I build **mobile games** (Zip Game, Brain Battle, Zip Puzzle, Crowd Clash Run)
-- 🛠️ Passionate about **Backend Development** with Python, Node.js & REST APIs
-- ☁️ Working with **AWS, Docker, CI/CD Pipelines, Azure & Terraform**
-- 📱 Cross-platform app developer using **Flutter**
-- 💡 Always **Learning & Exploring** new technologies
-- 🧩 Daily **LeetCode** grinder — sharpening DSA skills
-- 🤝 Open to collaborations on **interesting projects & games**
-- ⚡ Fun Fact: *A good developer writes code that humans can read — not just machines!*
+- 🌍 Based in **Andhra Pradesh / Vizag, India**
+- 💼 Working at **Nueve IT Solutions** since **May 2018**
+- 🏦 Worked on solutions for **America First Credit Union**, one of the largest credit unions in the US
+- 🔐 Strong experience in **large-scale APIs**, **secure 3rd-party integrations**, **CORS handling**, and **backend architecture**
+- ⚙️ Built a **Core Abstraction Layer** for banking operations like account creation, account retrieval, and fund transfer
+- 📱 Built practical products like **Islamic Duas by Masjid e Aqsa**
+- 🎮 Built games like **Zip Game** and **Brain Battle**
+- ☁️ Skilled in **Python, Node.js, Flutter, AWS, Docker, Azure, Terraform, and REST APIs**
+- 🧩 Regularly solving problems on **LeetCode**
+- 🚀 **Builder focused on scalable backend systems, practical mobile products, and fast MVPs that solve real-world problems**
 
 ---
 
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shaik-muneer" target="_blank">
+  <a href="https://linkedin.com/in/shaikmuneer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://play.google.com/store/apps" target="_blank">
+  <a href="https://play.google.com/store/apps/developer?id=myself+android" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
-  <a href="mailto:francefaraz@gmail.com">
+  <a href="mailto:itsfar47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@indiandevilsofficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Let's Code Together
+### 👨‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/francefaraz" target="_blank">
+  <a href="https://leetcode.com/u/ShaikMuneer/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/francefaraz" target="_blank">
@@ -50,14 +57,36 @@
 
 ---
 
-### 🎮 My Games on Google Play
+### 💼 Professional Experience
 
-| Game | Description |
-|------|-------------|
-| 🧩 **Zip Puzzle** | Fun & addictive puzzle game |
-| 🧠 **Brain Battle** | Test your brain with challenges |
-| ⚡ **Zip Game** | Fast-paced action game |
-| 🏃 **Crowd Clash Run** | Crowd runner arcade game |
+#### **Nueve IT Solutions** — Backend Developer  
+**Since May 2018**
+
+Worked on fintech and banking-focused backend systems, including:
+
+- **Self-Service CD**
+- **CD Renewal**
+- **Lightning Loan Application**
+- **Credit Score Integration (FICO)**
+- **Core Abstraction Layer** for reusable banking APIs
+
+Core strengths:
+
+- Large-scale API development
+- Secure third-party integrations
+- Backend system design
+- CORS and integration handling
+- Product-oriented engineering for real-world use cases
+
+---
+
+### 📱 Apps & Products
+
+| Product | Type | Description |
+|---|---|---|
+| 🕌 **Islamic Duas by Masjid e Aqsa** | Utility App | Practical Islamic app focused on daily value and usability |
+| ⚡ **Zip Game** | Game | Fast-paced mobile game |
+| 🧠 **Brain Battle** | Game | Challenge-based brain game |
 
 ---
 
@@ -84,7 +113,7 @@
 ### 【 DSA (LEETCODING) 】
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/francefaraz?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/ShaikMuneer?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
@@ -95,6 +124,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=francefaraz&show_icons=true&locale=en&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francefaraz&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francefaraz&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
@@ -109,8 +139,16 @@
 
 ---
 
-### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
+### ⭐ Featured Mindset
+
+> A practical builder who focuses on real-world problems, fast MVPs, and scalable backend-driven products with strong UX sense.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=francefaraz&label=Profile%20views&color=0e75b6&style=flat" alt="francefaraz" />
 </p>
+
+---
+
+### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
