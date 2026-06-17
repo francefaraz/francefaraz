@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🌍 Based in **Andhra Pradesh / Vizag, India**
-- 💼 Working at **Nueve IT Solutions** since **May 2018**
+- 💼 Working at **Nueve IT Solutions** since **Oct 2020**
 - 🏦 Worked on solutions for **America First Credit Union**, one of the largest credit unions in the US
 - 🔐 Strong experience in **large-scale APIs**, **secure 3rd-party integrations**, **CORS handling**, and **backend architecture**
 - ⚙️ Built a **Core Abstraction Layer** for banking operations like account creation, account retrieval, and fund transfer
